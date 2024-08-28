@@ -1,8 +1,6 @@
-# examination-management-system CSE310
-a java project on examination mangement system for admins and students.
-
-
-It was a awesome project. In making of this Examination Management System i have used many java concepts such as:
-Inheritance: I have used ems class which is inherited by student and admi class
-File handling: I have created 3 files , sampleq.txt, submit.txt ,result.txt for storing sample questions, there ans, and result.
-And other concepts such as Overriding Methods, Polymorphism, Exceptional Handling and I/O Fundamentals are also used.
+# Examination Management System CSE310
+- Collage Java Project.
+- Examination Management System for admins and students.
+- Inheritance: EMS class which is inherited by students and admi class
+- File handling: Created 3 files, sampleq.txt, submit.txt, and result.txt for storing sample questions, their answer, and results.
+- Other concepts such as Overriding Methods, Polymorphism, Exceptional Handling, and I/O Fundamentals are also used.
