@@ -1,4 +1,4 @@
-# examination-management-system
+# examination-management-system CSE310
 a java project on examination mangement system for admins and students.
 
 
